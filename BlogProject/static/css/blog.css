@@ -1,0 +1,155 @@
+body{
+  background: url(https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTI0fHxibG9nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-size:cover;
+  background-repeat;
+  font-family: 'Kiwi Maru', serif;
+  color: white;
+}
+.container{
+  width: 60%;
+  float: left;
+}
+a{
+  color:white !important;
+  background:#7a0000;
+  border-radius:8px;
+}
+#q{
+  text-align: center;
+  color:white;
+}
+hr{
+  border:1px solid white;
+  border-radius:10px;
+  width: 100%;
+  margin-left:33%;
+}
+span{
+  font-size:50px;
+  color: #15939e;
+
+  /* border-bottom:3px dashed white; */
+}
+.sidebar{
+  width: 39%;
+  font-size:1.3em;
+  float:right;
+  background: url(https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8eWVsbG93fGVufDB8fDB8&auto=format&fit=crop&w=500&q=60);
+  margin-top:9%;
+  margin-bottom:1%;
+  margin-right: 1%;
+  padding-right:28px;
+  color: black;
+  border:6px solid white;
+  border-radius:7%;
+  color:#222b57;
+}
+h1{
+  text-align: center;
+  color:white;
+  border: 3px groove white;
+  width:60%;
+  border-radius:45px;
+  padding:8px;
+  margin-left:53%;
+  background:#478094;
+letter-spacing: 2px;
+}
+#date{
+  color:#317eeb;
+  font-style: italic;
+}
+#pa{
+  color: white !important;
+}
+.paginator span {
+  font-size:20px;
+}
+.nc a{
+  background: none;
+}
+form{
+  margin-left:15%;
+}
+input,textarea{
+  background:white;
+  margin: 5px;
+  color: black;
+  width:350px
+}
+#sub{
+  margin-left:13.7%;
+  background:#20756a;
+}
+#en{
+  border: none;
+  margin-left:33%;
+  background-color:#911606;
+  width:76%;
+  text-align: center;
+  padding:3px;
+  border-radius: 5px ;
+  border: 2px solid white;
+}
+#em{
+  border: none;
+  margin-left:11%;
+  background-color:#911606;
+  width:76%;
+  text-align: center;
+  padding:3px;
+  border-radius: 5px ;
+  border: 2px solid white;
+}
+#read a{
+  margin-left:75%;
+  border: 2px solid white;
+  border-radius:0%;
+  text-align: center;
+  font-size:18px;
+  background: white !important;
+  color: black !important;
+  padding: 3px;
+}
+.tagbox{
+  margin-left:5px;
+  border: 1px solid white;
+  background:#2d4c80;
+  border-radius:12%;
+  padding: 2px;
+}
+#tp{
+  font-size:80px;
+  color:#871f49;
+}
+.si{
+  text-align: center;
+}
+#latest a{
+  background: none;
+  color:#0d3c75 !important;
+}
+#detail{
+  margin-left:17%;
+  font-size:28px;
+  border-radius:10px;
+  background:#7a0000;
+}
+#commenthr{
+  margin-left: 0%;
+  width: 80%;
+}
+#cf{
+  margin-left:0% !important;
+}
+#cf input,textarea{
+  border-radius:9px;
+}
+#cfs{
+  margin-left:16%;
+  width:25%;
+  font-size:19px;
+  color: white;
+  background:#050f7d;
+  border-radius:8px;
+}
